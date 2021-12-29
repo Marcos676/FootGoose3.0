@@ -1,0 +1,24 @@
+/* Header */
+@import './header/header.css';
+
+/* Variables */
+:root {
+  --colorMain: #f5cd76;
+}
+
+/* Generales */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+h1,h2,h3,h4,h5,h6 {
+  margin: 0;
+}
+
+.rounded-left{
+  border-radius: 0.25rem 0 0 0.25rem;
+}
+.rounded-right{
+  border-radius: 0 0.25rem 0.25rem 0;
+}

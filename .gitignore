@@ -1,0 +1,6 @@
+diseño de db
+node_modules
+package-lock.json
+.sequelizerc
+.env
+test.js
