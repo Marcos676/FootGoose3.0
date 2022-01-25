@@ -1,0 +1,15 @@
+/* fuentes */
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&family=Work+Sans:ital,wght@0,400;0,600;1,200&display=swap');
+/* Header */
+@import './Header.css';
+
+/* Variables */
+:root {
+  --colorMain: #f5cd76;
+  --font1: "Work-Sans";
+  --font2: "Staatliches"
+}
+
+
+/* Generales */
+@import './App.css';
